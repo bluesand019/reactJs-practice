@@ -5,7 +5,7 @@ const biodata = [
   {
     name: "Kowsor Dip",
     email: "mddip2000@gmail.com",
-    phone: "01911312998",
+    phone: "123458696",
     github: "github.com/kowsor",
     skills: ["HTML", "CSS", "JS"],
     interests: ["Games", "Books", "Travelling"]
