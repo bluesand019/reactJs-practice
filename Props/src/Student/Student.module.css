@@ -1,0 +1,17 @@
+.student {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.student1 {
+    background-color: rgb(243, 203, 151);
+}
+
+.student2 {
+    background-color: rgb(238, 175, 98);
+}
+
+.student3 {
+    background-color: rgb(226, 139, 33);
+}
