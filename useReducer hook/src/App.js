@@ -6,6 +6,7 @@ const ACTIONS = {
   DECREMENT: 'decrement'
 }
 
+//reducer function should be outside of the component
 function reducer(state, action) {
   switch(action.type) {
     case ACTIONS.INCREMENT:
