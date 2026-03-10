@@ -1,0 +1,17 @@
+{
+  "notes": [
+    {
+      "id": "1773156014431",
+      "title": "note 1"
+    },
+    {
+      "id": "1773156018826",
+      "title": "note 2"
+    },
+    {
+      "id": "1773156028110",
+      "title": "note 3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
